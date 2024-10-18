@@ -5,5 +5,5 @@ This is note repository full of notes for all classes in hume anglican grammar.
 2. and follow all hume values
 3. no content that goes against hume values.
 # How to add your notes
-1. To add your own notes to the repository you must fork it using the fork button and then send a pull request this will then be reviewed by us. and added to repository
+1. To add your own notes to the repository you must fork it or add files and sumbit a pull request. For forking add your files and send your fork to sraiheera@gmail.com
 2. Also when you do add your notes you earn respect points which can allow you to acess premuim notes sumbitted by us.
